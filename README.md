@@ -1,6 +1,9 @@
 # image-zoomer
 Custom zoomer for images on webpage
 
+# How it looks
+![How it looks](/view/image.png)
+
 # How to add
 1. Download or copy `script.js` file
 2. Copy `.zoomcircle` class from css to your css
