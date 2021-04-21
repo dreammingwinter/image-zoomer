@@ -1,5 +1,5 @@
 (() => {
-const images = document.querySelectorAll('.scalable')
+const images = document.querySelectorAll('img.scalable')
 const body = document.querySelector('body')
 const zc = document.createElement('div')
 const zcimg = document.createElement('img')
